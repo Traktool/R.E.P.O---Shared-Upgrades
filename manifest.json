@@ -1,9 +1,0 @@
-{
-    "name": "Shared Upgrades",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/Traktool/R.E.P.O---Shared-Upgrades/",
-    "description": "Are you fed up with your teammates stealing your upgrades? With this mod, upgrades are available for everyone!",
-    "dependencies": [
-        "BepInEx-BepInExPack-5.4.2300"
-    ]
-}
